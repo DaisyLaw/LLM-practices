@@ -10,9 +10,9 @@ The naive RAG leverages the power of GPT models to generate detailed and insight
 The advanced RAG showcases the development of a Retrieval-Augmented Generation (RAG) system tailored for answering science-related questions. It highlights various techniques to enhance the RAG pipeline, demonstrating their effectiveness in improving response accuracy and relevance.
 
 # Pokémon Pinyin Adventure
-This simple interactive game is designed to help children to practise Chinese Pinyin through the rewards of catching Pokémon.
-_Disclaimer:_
-_**Ownership**: "Pokémon" (宝可梦), Pokémon character names, and all related artistic assets, images, and branding are the sole property and trademarks of ©Nintendo/Creatures Inc./GAME FREAK inc._
-_**Fair Use**: Image resources used in this project are intended as educational aids and part of a fan-made experiment. The developer claims no ownership or rights to these intellectual properties._
-_**No Commercial Use**: Any individual or entity is strictly prohibited from using this project or its assets for commercial gain, monetization, or profitable activities._
+This simple interactive game is designed to help children to practise Chinese Pinyin through the rewards of catching Pokémon.\
+_Disclaimer:_\
+_**Ownership**: "Pokémon" (宝可梦), Pokémon character names, and all related artistic assets, images, and branding are the sole property and trademarks of ©Nintendo/Creatures Inc./GAME FREAK inc._\
+_**Fair Use**: Image resources used in this project are intended as educational aids and part of a fan-made experiment. The developer claims no ownership or rights to these intellectual properties._\
+_**No Commercial Use**: Any individual or entity is strictly prohibited from using this project or its assets for commercial gain, monetization, or profitable activities._\
 _**No Warranty**: The software is provided "as is", without warranty of any kind._
