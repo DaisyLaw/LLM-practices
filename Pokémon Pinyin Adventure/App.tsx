@@ -199,6 +199,14 @@ const App: React.FC = () => {
           </div>
         )}
       </main>
+
+      <footer className="mt-8 text-center text-xs text-slate-400 max-w-xl">
+        <p>© 2024 Pokémon Pinyin Adventure. All rights reserved.</p>
+        <p className="mt-1 italic">
+          Pokémon and all related assets are trademarks of Nintendo, Creatures Inc., and GAME FREAK. 
+          This is a non-commercial fan-made educational project.
+        </p>
+      </footer>
     </div>
   );
 };
