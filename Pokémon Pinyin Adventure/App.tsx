@@ -105,6 +105,20 @@ const App: React.FC = () => {
     <div className="min-h-screen bg-sky-100 flex flex-col items-center p-4">
       <header className="w-full max-w-2xl flex justify-between items-center mb-8">
         <h1 className="text-3xl font-bold text-yellow-500 pokemon-font drop-shadow-md">宝可梦拼音大冒险</h1>
+
+        {/* 游戏规则展示 */}
+            <div className="bg-blue-50 border-2 border-blue-200 rounded-2xl p-6 mb-8 text-left shadow-sm">
+              <h3 className="text-xl font-bold text-blue-700 mb-3 flex items-center">
+                <span className="mr-2">📝</span> 游戏规则：
+              </h3>
+              <ul className="space-y-2 text-slate-700">
+                <li className="flex items-start"><span className="text-blue-500 mr-2">1.</span> 点击下方按钮出发去草丛遭遇宝可梦。</li>
+                <li className="flex items-start"><span className="text-blue-500 mr-2">2.</span> 认真听读音，从选项中选出正确的拼音。</li>
+                <li className="flex items-start font-bold"><span className="text-blue-500 mr-2">3.</span> 连续答对 <span className="text-red-500 underline mx-1">{TARGET_SCORE}</span> 题即可成功捕捉该宝可梦！</li>
+                <li className="flex items-start text-sm text-slate-500"><span className="text-blue-500 mr-2">*</span> 如果答错，进度将清零。加油哦！</li>
+              </ul>
+            </div>
+        
         <button onClick={() => setGameState('POKEDEX')} className="bg-red-500 hover:bg-red-600 text-white px-4 py-2 rounded-full font-bold shadow-lg">我的图鉴 📖</button>
       </header>
 
