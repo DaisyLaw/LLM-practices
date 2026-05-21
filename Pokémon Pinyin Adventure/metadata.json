@@ -1,5 +1,5 @@
 {
-  "name": "宝可梦拼音大冒险 (Pokémon Pinyin Adventure)",
-  "description": "一个结合宝可梦收集要素的趣味拼音学习游戏。通过听音辨符，连续答对三题即可捕捉宝可梦，内置分级教学系统和个人图鉴。",
+  "name": "Pinyin Catcher",
+  "description": "A web-based Pokemon-catching game to help kids learn Pinyin.",
   "requestFramePermissions": []
 }
