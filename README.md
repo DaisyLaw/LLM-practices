@@ -18,7 +18,7 @@ _**Fair Use**: Image resources used in this project are intended as educational 
 _**No Commercial Use**: Any individual or entity is strictly prohibited from using this project or its assets for commercial gain, monetization, or profitable activities._\
 _**No Warranty**: The software is provided "as is", without warranty of any kind._
 
-# Pokémon Pinyin Offline
+# Pinyin APP
 This is a fully offline version of the original AI-Studio-scaffolded game. No AI, no server, no internet connection required — the game and UI are completely unchanged.\
 It was vibe coded by Claude.\
 The disclaimer for this game is the same as that of the Pokémon Pinyin Adventure.
